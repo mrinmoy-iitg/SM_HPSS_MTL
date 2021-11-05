@@ -1,0 +1,311 @@
+music,speech,speech+music,noise,speech+noise
+music-fma-0098.wav,speech-librivox-0099.wav,speech-us-gov-0233.wav+music-jamendo-0194.wav SMR=-5dB,noise-free-sound-0002.wav,speech-us-gov-0101.wav+noise-free-sound-0455.wav SMR=-5dB
+music-fma-0066.wav,speech-librivox-0171.wav,speech-librivox-0088.wav+music-rfm-0091.wav SMR=-4dB,noise-free-sound-0005.wav,speech-librivox-0115.wav+noise-free-sound-0137.wav SMR=-4dB
+music-fma-0092.wav,speech-librivox-0172.wav,speech-us-gov-0128.wav+music-jamendo-0172.wav SMR=-3dB,noise-free-sound-0008.wav,speech-us-gov-0056.wav+noise-free-sound-0473.wav SMR=-3dB
+music-fma-0011.wav,speech-librivox-0138.wav,speech-us-gov-0182.wav+music-fma-0031.wav SMR=-2dB,noise-free-sound-0011.wav,speech-us-gov-0035.wav+noise-free-sound-0101.wav SMR=-2dB
+music-fma-0124.wav,speech-librivox-0141.wav,speech-us-gov-0170.wav+music-fma-0077.wav SMR=-1dB,noise-free-sound-0014.wav,speech-us-gov-0107.wav+noise-free-sound-0026.wav SMR=-1dB
+music-fma-0120.wav,speech-librivox-0000.wav,speech-us-gov-0038.wav+music-rfm-0044.wav SMR=0dB,noise-free-sound-0017.wav,speech-us-gov-0236.wav+noise-free-sound-0068.wav SMR=0dB
+music-fma-0056.wav,speech-librivox-0026.wav,speech-us-gov-0089.wav+music-jamendo-0146.wav SMR=1dB,noise-free-sound-0020.wav,speech-us-gov-0086.wav+noise-free-sound-0704.wav SMR=1dB
+music-fma-0050.wav,speech-librivox-0018.wav,speech-librivox-0044.wav+music-jamendo-0006.wav SMR=2dB,noise-free-sound-0023.wav,speech-us-gov-0242.wav+noise-free-sound-0527.wav SMR=2dB
+music-fma-0055.wav,speech-librivox-0041.wav,speech-librivox-0037.wav+music-fma-0117.wav SMR=3dB,noise-free-sound-0026.wav,speech-us-gov-0188.wav+noise-free-sound-0188.wav SMR=3dB
+music-fma-0090.wav,speech-librivox-0064.wav,speech-librivox-0121.wav+music-rfm-0013.wav SMR=4dB,noise-free-sound-0029.wav,speech-us-gov-0218.wav+noise-free-sound-0602.wav SMR=4dB
+music-fma-0060.wav,speech-librivox-0163.wav,speech-us-gov-0119.wav+music-hd-0004.wav SMR=5dB,noise-free-sound-0032.wav,speech-librivox-0000.wav+noise-free-sound-0635.wav SMR=5dB
+music-fma-0004.wav,speech-librivox-0025.wav,speech-librivox-0018.wav+music-jamendo-0198.wav SMR=6dB,noise-free-sound-0035.wav,speech-us-gov-0005.wav+noise-free-sound-0296.wav SMR=6dB
+music-fma-0005.wav,speech-librivox-0011.wav,speech-librivox-0064.wav+music-fma-wa-0004.wav SMR=7dB,noise-free-sound-0038.wav,speech-us-gov-0140.wav+noise-free-sound-0422.wav SMR=7dB
+music-fma-0068.wav,speech-librivox-0008.wav,speech-librivox-0053.wav+music-hd-0057.wav SMR=8dB,noise-free-sound-0041.wav,speech-us-gov-0197.wav+noise-free-sound-0404.wav SMR=8dB
+music-fma-0073.wav,speech-librivox-0115.wav,speech-librivox-0085.wav+music-hd-0073.wav SMR=9dB,noise-free-sound-0044.wav,speech-us-gov-0080.wav+noise-free-sound-0437.wav SMR=9dB
+music-fma-0105.wav,speech-librivox-0079.wav,speech-librivox-0025.wav+music-fma-wa-0009.wav SMR=10dB,noise-free-sound-0047.wav,speech-us-gov-0185.wav+noise-free-sound-0278.wav SMR=10dB
+music-fma-0031.wav,speech-librivox-0122.wav,speech-librivox-0026.wav+music-jamendo-0119.wav SMR=11dB,noise-free-sound-0050.wav,speech-librivox-0069.wav+noise-free-sound-0776.wav SMR=11dB
+music-fma-0032.wav,speech-librivox-0042.wav,speech-librivox-0068.wav+music-jamendo-0070.wav SMR=12dB,noise-free-sound-0053.wav,speech-librivox-0171.wav+noise-sound-bible-0011.wav SMR=12dB
+music-fma-0007.wav,speech-librivox-0112.wav,speech-us-gov-0017.wav+music-rfm-0056.wav SMR=13dB,noise-free-sound-0056.wav,speech-us-gov-0173.wav+noise-free-sound-0242.wav SMR=13dB
+music-fma-0102.wav,speech-librivox-0065.wav,speech-us-gov-0047.wav+music-fma-wa-0045.wav SMR=14dB,noise-free-sound-0059.wav,speech-librivox-0138.wav+noise-sound-bible-0023.wav SMR=14dB
+music-fma-0096.wav,speech-librivox-0068.wav,speech-us-gov-0074.wav+music-fma-0043.wav SMR=15dB,noise-free-sound-0062.wav,speech-librivox-0027.wav+noise-free-sound-0230.wav SMR=15dB
+music-fma-0025.wav,speech-librivox-0039.wav,speech-us-gov-0053.wav+music-fma-wa-0089.wav SMR=16dB,noise-free-sound-0065.wav,speech-librivox-0018.wav+noise-free-sound-0623.wav SMR=16dB
+music-fma-0019.wav,speech-librivox-0085.wav,speech-librivox-0149.wav+music-jamendo-0003.wav SMR=17dB,noise-free-sound-0068.wav,speech-us-gov-0116.wav+noise-free-sound-0716.wav SMR=17dB
+music-fma-0074.wav,speech-librivox-0121.wav,speech-librivox-0163.wav+music-hd-0013.wav SMR=18dB,noise-free-sound-0071.wav,speech-us-gov-0059.wav+noise-free-sound-0644.wav SMR=18dB
+music-fma-0077.wav,speech-librivox-0142.wav,speech-librivox-0069.wav+music-jamendo-0049.wav SMR=19dB,noise-free-sound-0074.wav,speech-us-gov-0026.wav+noise-free-sound-0572.wav SMR=19dB
+music-fma-0080.wav,speech-librivox-0080.wav,speech-us-gov-0098.wav+music-jamendo-0091.wav SMR=20dB,noise-free-sound-0077.wav,speech-librivox-0039.wav+noise-free-sound-0428.wav SMR=20dB
+music-fma-0084.wav,speech-librivox-0010.wav,speech-librivox-0014.wav+music-rfm-0086.wav SMR=-5dB,noise-free-sound-0080.wav,speech-us-gov-0029.wav+noise-free-sound-0677.wav SMR=-5dB
+music-fma-0083.wav,speech-librivox-0050.wav,speech-librivox-0008.wav+music-fma-0011.wav SMR=-4dB,noise-free-sound-0083.wav,speech-us-gov-0044.wav+noise-free-sound-0590.wav SMR=-4dB
+music-fma-0039.wav,speech-librivox-0053.wav,speech-us-gov-0137.wav+music-rfm-0082.wav SMR=-3dB,noise-free-sound-0086.wav,speech-us-gov-0023.wav+noise-free-sound-0302.wav SMR=-3dB
+music-fma-0036.wav,speech-librivox-0061.wav,speech-librivox-0137.wav+music-jamendo-0112.wav SMR=-2dB,noise-free-sound-0089.wav,speech-us-gov-0128.wav+noise-free-sound-0125.wav SMR=-2dB
+music-fma-0110.wav,speech-librivox-0157.wav,speech-us-gov-0242.wav+music-rfm-0018.wav SMR=-1dB,noise-free-sound-0092.wav,speech-librivox-0158.wav+noise-free-sound-0272.wav SMR=-1dB
+music-fma-0109.wav,speech-librivox-0154.wav,speech-librivox-0107.wav+music-fma-0004.wav SMR=0dB,noise-free-sound-0095.wav,speech-us-gov-0143.wav+noise-free-sound-0311.wav SMR=0dB
+music-fma-0043.wav,speech-librivox-0088.wav,speech-us-gov-0197.wav+music-fma-wa-0081.wav SMR=1dB,noise-free-sound-0098.wav,speech-librivox-0122.wav+noise-free-sound-0131.wav SMR=1dB
+music-fma-0047.wav,speech-librivox-0106.wav,speech-librivox-0106.wav+music-rfm-0031.wav SMR=2dB,noise-free-sound-0101.wav,speech-us-gov-0194.wav+noise-free-sound-0128.wav SMR=2dB
+music-fma-0117.wav,speech-librivox-0107.wav,speech-librivox-0122.wav+music-hd-0022.wav SMR=3dB,noise-free-sound-0104.wav,speech-librivox-0065.wav+noise-free-sound-0689.wav SMR=3dB
+music-fma-0012.wav,speech-librivox-0158.wav,speech-librivox-0158.wav+music-fma-wa-0002.wav SMR=4dB,noise-free-sound-0107.wav,speech-librivox-0099.wav+noise-free-sound-0683.wav SMR=4dB
+music-fma-0013.wav,speech-librivox-0037.wav,speech-us-gov-0209.wav+music-fma-0110.wav SMR=5dB,noise-free-sound-0110.wav,speech-us-gov-0014.wav+noise-free-sound-0158.wav SMR=5dB
+music-fma-wa-0009.wav,speech-librivox-0089.wav,speech-us-gov-0104.wav+music-rfm-0116.wav SMR=6dB,noise-free-sound-0113.wav,speech-us-gov-0125.wav+noise-free-sound-0839.wav SMR=6dB
+music-fma-wa-0004.wav,speech-librivox-0152.wav,speech-librivox-0099.wav+music-fma-0083.wav SMR=7dB,noise-free-sound-0116.wav,speech-us-gov-0251.wav+noise-free-sound-0386.wav SMR=7dB
+music-fma-wa-0013.wav,speech-librivox-0137.wav,speech-us-gov-0122.wav+music-fma-wa-0075.wav SMR=8dB,noise-free-sound-0119.wav,speech-us-gov-0038.wav+noise-free-sound-0419.wav SMR=8dB
+music-fma-wa-0019.wav,speech-librivox-0086.wav,speech-us-gov-0092.wav+music-fma-0013.wav SMR=9dB,noise-free-sound-0122.wav,speech-librivox-0121.wav+noise-free-sound-0401.wav SMR=9dB
+music-fma-wa-0005.wav,speech-librivox-0047.wav,speech-us-gov-0143.wav+music-fma-wa-0026.wav SMR=10dB,noise-free-sound-0125.wav,speech-librivox-0172.wav+noise-free-sound-0782.wav SMR=10dB
+music-fma-wa-0014.wav,speech-librivox-0020.wav,speech-librivox-0010.wav+music-fma-wa-0057.wav SMR=11dB,noise-free-sound-0128.wav,speech-us-gov-0062.wav+noise-free-sound-0515.wav SMR=11dB
+music-fma-wa-0022.wav,speech-librivox-0019.wav,speech-us-gov-0011.wav+music-fma-wa-0019.wav SMR=12dB,noise-free-sound-0131.wav,speech-us-gov-0161.wav+noise-free-sound-0014.wav SMR=12dB
+music-fma-wa-0026.wav,speech-librivox-0166.wav,speech-librivox-0039.wav+music-fma-0066.wav SMR=13dB,noise-free-sound-0134.wav,speech-us-gov-0224.wav+noise-free-sound-0005.wav SMR=13dB
+music-fma-wa-0047.wav,speech-librivox-0101.wav,speech-us-gov-0131.wav+music-fma-wa-0050.wav SMR=14dB,noise-free-sound-0137.wav,speech-us-gov-0239.wav+noise-free-sound-0680.wav SMR=14dB
+music-fma-wa-0050.wav,speech-librivox-0032.wav,speech-librivox-0000.wav+music-rfm-0127.wav SMR=15dB,noise-free-sound-0140.wav,speech-us-gov-0095.wav+noise-free-sound-0365.wav SMR=15dB
+music-fma-wa-0053.wav,speech-librivox-0027.wav,speech-librivox-0028.wav+music-fma-0019.wav SMR=16dB,noise-free-sound-0143.wav,speech-us-gov-0119.wav+noise-sound-bible-0020.wav SMR=16dB
+music-fma-wa-0072.wav,speech-librivox-0069.wav,speech-librivox-0041.wav+music-jamendo-0099.wav SMR=17dB,noise-free-sound-0146.wav,speech-us-gov-0191.wav+noise-free-sound-0317.wav SMR=17dB
+music-fma-wa-0075.wav,speech-librivox-0072.wav,speech-us-gov-0005.wav+music-hd-0065.wav SMR=18dB,noise-free-sound-0149.wav,speech-librivox-0042.wav+noise-free-sound-0263.wav SMR=18dB
+music-fma-wa-0078.wav,speech-librivox-0073.wav,speech-us-gov-0251.wav+music-fma-0039.wav SMR=19dB,noise-free-sound-0152.wav,speech-librivox-0152.wav+noise-sound-bible-0080.wav SMR=19dB
+music-fma-wa-0081.wav,speech-librivox-0044.wav,speech-librivox-0152.wav+music-fma-0090.wav SMR=20dB,noise-free-sound-0155.wav,speech-librivox-0085.wav+noise-free-sound-0038.wav SMR=20dB
+music-fma-wa-0045.wav,speech-librivox-0014.wav,speech-us-gov-0191.wav+music-jamendo-0192.wav SMR=-5dB,noise-free-sound-0158.wav,speech-us-gov-0233.wav+noise-free-sound-0659.wav SMR=-5dB
+music-fma-wa-0063.wav,speech-librivox-0149.wav,speech-librivox-0171.wav+music-fma-wa-0014.wav SMR=-4dB,noise-free-sound-0161.wav,speech-us-gov-0050.wav+noise-free-sound-0560.wav SMR=-4dB
+music-fma-wa-0057.wav,speech-librivox-0028.wav,speech-us-gov-0173.wav+music-rfm-0066.wav SMR=-3dB,noise-free-sound-0164.wav,speech-us-gov-0092.wav+noise-sound-bible-0041.wav SMR=-3dB
+music-fma-wa-0066.wav,speech-librivox-0090.wav,speech-librivox-0142.wav+music-jamendo-0155.wav SMR=-2dB,noise-free-sound-0167.wav,speech-librivox-0088.wav+noise-sound-bible-0077.wav SMR=-2dB
+music-fma-wa-0060.wav,speech-us-gov-0002.wav,speech-us-gov-0101.wav+music-jamendo-0097.wav SMR=-1dB,noise-free-sound-0170.wav,speech-librivox-0072.wav+noise-free-sound-0191.wav SMR=-1dB
+music-fma-wa-0070.wav,speech-us-gov-0005.wav,speech-us-gov-0026.wav+music-hd-0042.wav SMR=0dB,noise-free-sound-0173.wav,speech-librivox-0011.wav+noise-free-sound-0254.wav SMR=0dB
+music-fma-wa-0033.wav,speech-us-gov-0008.wav,speech-us-gov-0020.wav+music-fma-0084.wav SMR=1dB,noise-free-sound-0176.wav,speech-librivox-0157.wav+noise-sound-bible-0056.wav SMR=1dB
+music-fma-wa-0039.wav,speech-us-gov-0011.wav,speech-us-gov-0224.wav+music-rfm-0090.wav SMR=2dB,noise-free-sound-0179.wav,speech-librivox-0080.wav+noise-free-sound-0194.wav SMR=2dB
+music-fma-wa-0036.wav,speech-us-gov-0014.wav,speech-us-gov-0035.wav+music-jamendo-0083.wav SMR=3dB,noise-free-sound-0182.wav,speech-us-gov-0071.wav+noise-free-sound-0599.wav SMR=3dB
+music-fma-wa-0041.wav,speech-us-gov-0017.wav,speech-us-gov-0062.wav+music-jamendo-0129.wav SMR=4dB,noise-free-sound-0185.wav,speech-librivox-0089.wav+noise-free-sound-0629.wav SMR=4dB
+music-fma-wa-0002.wav,speech-us-gov-0020.wav,speech-us-gov-0140.wav+music-fma-0055.wav SMR=5dB,noise-free-sound-0188.wav,speech-us-gov-0164.wav+noise-free-sound-0530.wav SMR=5dB
+music-fma-wa-0029.wav,speech-us-gov-0023.wav,speech-librivox-0061.wav+music-rfm-0103.wav SMR=6dB,noise-free-sound-0191.wav,speech-us-gov-0089.wav+noise-sound-bible-0002.wav SMR=6dB
+music-fma-wa-0083.wav,speech-us-gov-0026.wav,speech-us-gov-0116.wav+music-fma-0056.wav SMR=7dB,noise-free-sound-0194.wav,speech-us-gov-0041.wav+noise-free-sound-0407.wav SMR=7dB
+music-fma-wa-0089.wav,speech-us-gov-0029.wav,speech-us-gov-0221.wav+music-fma-0120.wav SMR=8dB,noise-free-sound-0197.wav,speech-us-gov-0206.wav+noise-free-sound-0032.wav SMR=8dB
+music-fma-wa-0086.wav,speech-us-gov-0032.wav,speech-us-gov-0014.wav+music-rfm-0074.wav SMR=9dB,noise-free-sound-0200.wav,speech-librivox-0064.wav+noise-free-sound-0506.wav SMR=9dB
+music-fma-wa-0092.wav,speech-us-gov-0035.wav,speech-librivox-0019.wav+music-rfm-0071.wav SMR=10dB,noise-free-sound-0203.wav,speech-librivox-0079.wav+noise-free-sound-0482.wav SMR=10dB
+music-hd-0035.wav,speech-us-gov-0038.wav,speech-librivox-0115.wav+music-rfm-0058.wav SMR=11dB,noise-free-sound-0206.wav,speech-us-gov-0047.wav+noise-sound-bible-0005.wav SMR=11dB
+music-hd-0033.wav,speech-us-gov-0041.wav,speech-librivox-0065.wav+music-jamendo-0033.wav SMR=12dB,noise-free-sound-0209.wav,speech-librivox-0154.wav+noise-free-sound-0083.wav SMR=12dB
+music-hd-0061.wav,speech-us-gov-0044.wav,speech-librivox-0080.wav+music-fma-wa-0083.wav SMR=13dB,noise-free-sound-0212.wav,speech-us-gov-0221.wav+noise-free-sound-0359.wav SMR=13dB
+music-hd-0057.wav,speech-us-gov-0047.wav,speech-us-gov-0113.wav+music-jamendo-0204.wav SMR=14dB,noise-free-sound-0215.wav,speech-us-gov-0053.wav+noise-free-sound-0116.wav SMR=14dB
+music-hd-0063.wav,speech-us-gov-0050.wav,speech-us-gov-0146.wav+music-fma-0102.wav SMR=15dB,noise-free-sound-0218.wav,speech-librivox-0050.wav+noise-free-sound-0299.wav SMR=15dB
+music-hd-0004.wav,speech-us-gov-0053.wav,speech-us-gov-0107.wav+music-fma-0098.wav SMR=16dB,noise-free-sound-0221.wav,speech-librivox-0032.wav+noise-free-sound-0695.wav SMR=16dB
+music-hd-0007.wav,speech-us-gov-0056.wav,speech-us-gov-0200.wav+music-fma-wa-0060.wav SMR=17dB,noise-free-sound-0224.wav,speech-us-gov-0245.wav+noise-free-sound-0566.wav SMR=17dB
+music-hd-0001.wav,speech-us-gov-0059.wav,speech-us-gov-0176.wav+music-jamendo-0191.wav SMR=18dB,noise-free-sound-0227.wav,speech-us-gov-0011.wav+noise-free-sound-0734.wav SMR=18dB
+music-hd-0072.wav,speech-us-gov-0062.wav,speech-us-gov-0023.wav+music-hd-0001.wav SMR=19dB,noise-free-sound-0230.wav,speech-librivox-0041.wav+noise-sound-bible-0053.wav SMR=19dB
+music-hd-0073.wav,speech-us-gov-0065.wav,speech-librivox-0011.wav+music-jamendo-0069.wav SMR=20dB,noise-free-sound-0233.wav,speech-us-gov-0227.wav+noise-free-sound-0686.wav SMR=20dB
+music-hd-0010.wav,speech-us-gov-0068.wav,speech-us-gov-0002.wav+music-hd-0029.wav SMR=-5dB,noise-free-sound-0236.wav,speech-librivox-0142.wav+noise-free-sound-0548.wav SMR=-5dB
+music-hd-0048.wav,speech-us-gov-0071.wav,speech-us-gov-0071.wav+music-hd-0061.wav SMR=-4dB,noise-free-sound-0239.wav,speech-us-gov-0170.wav+noise-free-sound-0173.wav SMR=-4dB
+music-hd-0051.wav,speech-us-gov-0074.wav,speech-librivox-0047.wav+music-fma-wa-0005.wav SMR=-3dB,noise-free-sound-0242.wav,speech-us-gov-0134.wav+noise-free-sound-0098.wav SMR=-3dB
+music-hd-0013.wav,speech-us-gov-0077.wav,speech-us-gov-0125.wav+music-jamendo-0131.wav SMR=-2dB,noise-free-sound-0245.wav,speech-librivox-0090.wav+noise-free-sound-0329.wav SMR=-2dB
+music-hd-0031.wav,speech-us-gov-0080.wav,speech-us-gov-0194.wav+music-jamendo-0206.wav SMR=-1dB,noise-free-sound-0248.wav,speech-librivox-0020.wav+noise-free-sound-0221.wav SMR=-1dB
+music-hd-0065.wav,speech-us-gov-0083.wav,speech-librivox-0112.wav+music-jamendo-0147.wav SMR=0dB,noise-free-sound-0251.wav,speech-librivox-0068.wav+noise-free-sound-0785.wav SMR=0dB
+music-hd-0068.wav,speech-us-gov-0086.wav,speech-librivox-0086.wav+music-fma-0047.wav SMR=1dB,noise-free-sound-0254.wav,speech-us-gov-0083.wav+noise-free-sound-0668.wav SMR=1dB
+music-hd-0020.wav,speech-us-gov-0089.wav,speech-librivox-0089.wav+music-jamendo-0168.wav SMR=2dB,noise-free-sound-0257.wav,speech-us-gov-0017.wav+noise-free-sound-0461.wav SMR=2dB
+music-hd-0022.wav,speech-us-gov-0092.wav,speech-us-gov-0008.wav+music-fma-wa-0072.wav SMR=3dB,noise-free-sound-0260.wav,speech-librivox-0086.wav+noise-free-sound-0746.wav SMR=3dB
+music-hd-0045.wav,speech-us-gov-0095.wav,speech-us-gov-0152.wav+music-rfm-0033.wav SMR=4dB,noise-free-sound-0263.wav,speech-us-gov-0074.wav+noise-free-sound-0257.wav SMR=4dB
+music-hd-0047.wav,speech-us-gov-0098.wav,speech-us-gov-0185.wav+music-fma-wa-0041.wav SMR=5dB,noise-free-sound-0266.wav,speech-librivox-0112.wav+noise-free-sound-0434.wav SMR=5dB
+music-hd-0042.wav,speech-us-gov-0101.wav,speech-us-gov-0179.wav+music-fma-wa-0092.wav SMR=6dB,noise-free-sound-0269.wav,speech-librivox-0047.wav+noise-free-sound-0236.wav SMR=6dB
+music-hd-0029.wav,speech-us-gov-0104.wav,speech-us-gov-0164.wav+music-rfm-0137.wav SMR=7dB,noise-free-sound-0272.wav,speech-us-gov-0131.wav+noise-free-sound-0674.wav SMR=7dB
+music-hd-0024.wav,speech-us-gov-0107.wav,speech-us-gov-0188.wav+music-fma-0005.wav SMR=8dB,noise-free-sound-0275.wav,speech-us-gov-0098.wav+noise-free-sound-0551.wav SMR=8dB
+music-hd-0034.wav,speech-us-gov-0110.wav,speech-us-gov-0227.wav+music-hd-0020.wav SMR=9dB,noise-free-sound-0278.wav,speech-us-gov-0146.wav+noise-free-sound-0521.wav SMR=9dB
+music-jamendo-0018.wav,speech-us-gov-0113.wav,speech-us-gov-0203.wav+music-rfm-0108.wav SMR=10dB,noise-free-sound-0281.wav,speech-librivox-0010.wav+noise-free-sound-0251.wav SMR=10dB
+music-jamendo-0021.wav,speech-us-gov-0116.wav,speech-librivox-0027.wav+music-rfm-0122.wav SMR=11dB,noise-free-sound-0284.wav,speech-us-gov-0113.wav+noise-free-sound-0161.wav SMR=11dB
+music-jamendo-0070.wav,speech-us-gov-0119.wav,speech-us-gov-0068.wav+music-rfm-0011.wav SMR=12dB,noise-free-sound-0287.wav,speech-librivox-0014.wav+noise-free-sound-0179.wav SMR=12dB
+music-jamendo-0101.wav,speech-us-gov-0122.wav,speech-us-gov-0230.wav+music-jamendo-0126.wav SMR=13dB,noise-free-sound-0290.wav,speech-librivox-0106.wav+noise-sound-bible-0068.wav SMR=13dB
+music-jamendo-0102.wav,speech-us-gov-0125.wav,speech-librivox-0073.wav+music-fma-0068.wav SMR=14dB,noise-free-sound-0293.wav,speech-librivox-0107.wav+noise-free-sound-0605.wav SMR=14dB
+music-jamendo-0135.wav,speech-us-gov-0128.wav,speech-us-gov-0086.wav+music-jamendo-0076.wav SMR=15dB,noise-free-sound-0296.wav,speech-us-gov-0212.wav+noise-free-sound-0287.wav SMR=15dB
+music-jamendo-0063.wav,speech-us-gov-0131.wav,speech-us-gov-0155.wav+music-rfm-0060.wav SMR=16dB,noise-free-sound-0299.wav,speech-librivox-0141.wav+noise-free-sound-0011.wav SMR=16dB
+music-jamendo-0069.wav,speech-us-gov-0134.wav,speech-us-gov-0032.wav+music-rfm-0126.wav SMR=17dB,noise-free-sound-0302.wav,speech-librivox-0053.wav+noise-free-sound-0458.wav SMR=17dB
+music-jamendo-0065.wav,speech-us-gov-0137.wav,speech-us-gov-0059.wav+music-fma-0096.wav SMR=18dB,noise-free-sound-0305.wav,speech-librivox-0101.wav+noise-free-sound-0650.wav SMR=18dB
+music-jamendo-0033.wav,speech-us-gov-0140.wav,speech-us-gov-0056.wav+music-rfm-0146.wav SMR=19dB,noise-free-sound-0308.wav,speech-us-gov-0230.wav+noise-free-sound-0443.wav SMR=19dB
+music-jamendo-0032.wav,speech-us-gov-0143.wav,speech-us-gov-0080.wav+music-rfm-0003.wav SMR=20dB,noise-free-sound-0311.wav,speech-us-gov-0152.wav+noise-free-sound-0647.wav SMR=20dB
+music-jamendo-0038.wav,speech-us-gov-0146.wav,speech-us-gov-0077.wav+music-jamendo-0200.wav SMR=-5dB,noise-free-sound-0314.wav,speech-us-gov-0149.wav+noise-free-sound-0395.wav SMR=-5dB
+music-jamendo-0184.wav,speech-us-gov-0149.wav,speech-librivox-0050.wav+music-fma-0109.wav SMR=-4dB,noise-free-sound-0317.wav,speech-us-gov-0215.wav+noise-free-sound-0293.wav SMR=-4dB
+music-jamendo-0183.wav,speech-us-gov-0152.wav,speech-us-gov-0212.wav+music-rfm-0076.wav SMR=-3dB,noise-free-sound-0320.wav,speech-librivox-0073.wav+noise-free-sound-0779.wav SMR=-3dB
+music-jamendo-0119.wav,speech-us-gov-0155.wav,speech-us-gov-0149.wav+music-jamendo-0184.wav SMR=-2dB,noise-free-sound-0323.wav,speech-us-gov-0200.wav+noise-free-sound-0167.wav SMR=-2dB
+music-jamendo-0044.wav,speech-us-gov-0158.wav,speech-us-gov-0167.wav+music-rfm-0096.wav SMR=-1dB,noise-free-sound-0326.wav,speech-us-gov-0110.wav+noise-free-sound-0323.wav SMR=-1dB
+music-jamendo-0131.wav,speech-us-gov-0161.wav,speech-librivox-0154.wav+music-hd-0010.wav SMR=0dB,noise-free-sound-0329.wav,speech-us-gov-0137.wav+noise-sound-bible-0047.wav SMR=0dB
+music-jamendo-0200.wav,speech-us-gov-0164.wav,speech-librivox-0138.wav+music-hd-0034.wav SMR=1dB,noise-free-sound-0332.wav,speech-us-gov-0008.wav+noise-free-sound-0656.wav SMR=1dB
+music-jamendo-0136.wav,speech-us-gov-0167.wav,speech-librivox-0072.wav+music-fma-0124.wav SMR=2dB,noise-free-sound-0335.wav,speech-librivox-0149.wav+noise-free-sound-0338.wav SMR=2dB
+music-jamendo-0141.wav,speech-us-gov-0170.wav,speech-us-gov-0134.wav+music-jamendo-0044.wav SMR=3dB,noise-free-sound-0338.wav,speech-librivox-0028.wav+noise-free-sound-0764.wav SMR=3dB
+music-jamendo-0129.wav,speech-us-gov-0173.wav,speech-us-gov-0218.wav+music-rfm-0081.wav SMR=4dB,noise-free-sound-0341.wav,speech-us-gov-0158.wav+noise-free-sound-0344.wav SMR=4dB
+music-jamendo-0058.wav,speech-us-gov-0176.wav,speech-librivox-0101.wav+music-jamendo-0018.wav SMR=5dB,noise-free-sound-0344.wav,speech-librivox-0019.wav+noise-free-sound-0767.wav SMR=5dB
+music-jamendo-0126.wav,speech-us-gov-0179.wav,speech-us-gov-0206.wav+music-jamendo-0141.wav SMR=6dB,noise-free-sound-0347.wav,speech-librivox-0166.wav+noise-sound-bible-0065.wav SMR=6dB
+music-jamendo-0143.wav,speech-us-gov-0182.wav,speech-us-gov-0245.wav+music-fma-wa-0070.wav SMR=7dB,noise-free-sound-0350.wav,speech-librivox-0044.wav+noise-free-sound-0662.wav SMR=7dB
+music-jamendo-0146.wav,speech-us-gov-0185.wav,speech-us-gov-0095.wav+music-rfm-0029.wav SMR=8dB,noise-free-sound-0353.wav,speech-us-gov-0104.wav+noise-free-sound-0575.wav SMR=8dB
+music-jamendo-0039.wav,speech-us-gov-0188.wav,speech-us-gov-0041.wav+music-rfm-0038.wav SMR=9dB,noise-free-sound-0356.wav,speech-librivox-0026.wav+noise-free-sound-0431.wav SMR=9dB
+music-jamendo-0155.wav,speech-us-gov-0191.wav,speech-us-gov-0050.wav+music-jamendo-0169.wav SMR=10dB,noise-free-sound-0359.wav,speech-librivox-0037.wav+noise-free-sound-0563.wav SMR=10dB
+music-jamendo-0159.wav,speech-us-gov-0194.wav,speech-librivox-0032.wav+music-fma-wa-0047.wav SMR=11dB,noise-free-sound-0362.wav,speech-us-gov-0122.wav+noise-free-sound-0494.wav SMR=11dB
+music-jamendo-0000.wav,speech-us-gov-0197.wav,speech-librivox-0141.wav+music-jamendo-0073.wav SMR=12dB,noise-free-sound-0365.wav,speech-librivox-0025.wav+noise-free-sound-0794.wav SMR=12dB
+music-jamendo-0006.wav,speech-us-gov-0200.wav,speech-us-gov-0215.wav+music-rfm-0016.wav SMR=13dB,noise-free-sound-0368.wav,speech-us-gov-0155.wav+noise-free-sound-0485.wav SMR=13dB
+music-jamendo-0003.wav,speech-us-gov-0203.wav,speech-librivox-0166.wav+music-jamendo-0016.wav SMR=14dB,noise-free-sound-0371.wav,speech-us-gov-0209.wav+noise-free-sound-0608.wav SMR=14dB
+music-jamendo-0164.wav,speech-us-gov-0206.wav,speech-us-gov-0239.wav+music-hd-0047.wav SMR=15dB,noise-free-sound-0374.wav,speech-us-gov-0176.wav+noise-free-sound-0227.wav SMR=15dB
+music-jamendo-0192.wav,speech-us-gov-0209.wav,speech-us-gov-0044.wav+music-jamendo-0010.wav SMR=16dB,noise-free-sound-0377.wav,speech-librivox-0008.wav+noise-free-sound-0584.wav SMR=16dB
+music-jamendo-0191.wav,speech-us-gov-0212.wav,speech-librivox-0042.wav+music-hd-0048.wav SMR=17dB,noise-free-sound-0380.wav,speech-librivox-0137.wav+noise-free-sound-0290.wav SMR=17dB
+music-jamendo-0123.wav,speech-us-gov-0215.wav,speech-librivox-0079.wav+music-jamendo-0021.wav SMR=18dB,noise-free-sound-0383.wav,speech-librivox-0163.wav+noise-free-sound-0122.wav SMR=18dB
+music-jamendo-0073.wav,speech-us-gov-0218.wav,speech-us-gov-0158.wav+music-hd-0024.wav SMR=19dB,noise-free-sound-0386.wav,speech-us-gov-0065.wav+noise-free-sound-0578.wav SMR=19dB
+music-jamendo-0076.wav,speech-us-gov-0221.wav,speech-us-gov-0161.wav+music-fma-wa-0029.wav SMR=20dB,noise-free-sound-0389.wav,speech-us-gov-0068.wav+noise-sound-bible-0017.wav SMR=20dB
+music-jamendo-0077.wav,speech-us-gov-0224.wav,speech-librivox-0020.wav+music-jamendo-0136.wav SMR=-5dB,noise-free-sound-0392.wav,speech-us-gov-0077.wav+noise-free-sound-0728.wav SMR=-5dB
+music-jamendo-0078.wav,speech-us-gov-0227.wav,speech-us-gov-0248.wav+music-jamendo-0013.wav SMR=-4dB,noise-free-sound-0395.wav,speech-us-gov-0167.wav+noise-free-sound-0044.wav SMR=-4dB
+music-jamendo-0206.wav,speech-us-gov-0230.wav,speech-us-gov-0110.wav+music-jamendo-0058.wav SMR=-3dB,noise-free-sound-0398.wav,speech-us-gov-0203.wav+noise-free-sound-0632.wav SMR=-3dB
+music-jamendo-0204.wav,speech-us-gov-0233.wav,speech-us-gov-0029.wav+music-jamendo-0135.wav SMR=-2dB,noise-free-sound-0401.wav,speech-us-gov-0020.wav+noise-free-sound-0413.wav SMR=-2dB
+music-jamendo-0169.wav,speech-us-gov-0236.wav,speech-librivox-0172.wav+music-hd-0072.wav SMR=-1dB,noise-free-sound-0404.wav,speech-us-gov-0248.wav+noise-free-sound-0698.wav SMR=-1dB
+music-jamendo-0168.wav,speech-us-gov-0239.wav,speech-us-gov-0065.wav+music-hd-0035.wav SMR=0dB,noise-free-sound-0407.wav,speech-us-gov-0002.wav+noise-free-sound-0356.wav SMR=0dB
+music-jamendo-0083.wav,speech-us-gov-0242.wav,speech-us-gov-0083.wav+music-rfm-0052.wav SMR=1dB,noise-free-sound-0410.wav,speech-librivox-0061.wav+noise-sound-bible-0014.wav SMR=1dB
+music-jamendo-0082.wav,speech-us-gov-0245.wav,speech-us-gov-0236.wav+music-fma-0036.wav SMR=2dB,noise-free-sound-0413.wav,speech-us-gov-0179.wav+noise-free-sound-0332.wav SMR=2dB
+music-jamendo-0147.wav,speech-us-gov-0248.wav,speech-librivox-0090.wav+music-jamendo-0173.wav SMR=3dB,noise-free-sound-0416.wav,speech-us-gov-0032.wav+noise-free-sound-0065.wav SMR=3dB
+music-jamendo-0151.wav,speech-us-gov-0251.wav,speech-librivox-0157.wav+music-jamendo-0048.wav SMR=4dB,noise-free-sound-0419.wav,speech-us-gov-0182.wav+noise-sound-bible-0050.wav SMR=4dB
+music-jamendo-0150.wav,,speech-librivox-0086.wav+music-jamendo-0065.wav SMR=5dB,noise-free-sound-0422.wav,speech-librivox-0106.wav+noise-free-sound-0119.wav SMR=5dB
+music-jamendo-0112.wav,,speech-us-gov-0239.wav+music-fma-0007.wav SMR=6dB,noise-free-sound-0425.wav,speech-us-gov-0185.wav+noise-free-sound-0056.wav SMR=6dB
+music-jamendo-0115.wav,,speech-us-gov-0086.wav+music-rfm-0024.wav SMR=7dB,noise-free-sound-0428.wav,speech-librivox-0026.wav+noise-free-sound-0761.wav SMR=7dB
+music-jamendo-0118.wav,,speech-librivox-0142.wav+music-fma-wa-0039.wav SMR=8dB,noise-free-sound-0431.wav,speech-us-gov-0164.wav+noise-sound-bible-0035.wav SMR=8dB
+music-jamendo-0194.wav,,speech-librivox-0072.wav+music-rfm-0049.wav SMR=9dB,noise-free-sound-0434.wav,speech-librivox-0000.wav+noise-free-sound-0398.wav SMR=9dB
+music-jamendo-0198.wav,,speech-librivox-0041.wav+music-hd-0033.wav SMR=10dB,noise-free-sound-0437.wav,speech-us-gov-0071.wav+noise-free-sound-0788.wav SMR=10dB
+music-jamendo-0030.wav,,speech-librivox-0073.wav+music-fma-0025.wav SMR=11dB,noise-free-sound-0440.wav,speech-librivox-0039.wav+noise-free-sound-0476.wav SMR=11dB
+music-jamendo-0026.wav,,speech-us-gov-0194.wav+music-hd-0051.wav SMR=12dB,noise-free-sound-0443.wav,speech-librivox-0025.wav+noise-free-sound-0791.wav SMR=12dB
+music-jamendo-0013.wav,,speech-librivox-0047.wav+music-jamendo-0150.wav SMR=13dB,noise-free-sound-0446.wav,speech-us-gov-0083.wav+noise-free-sound-0200.wav SMR=13dB
+music-jamendo-0010.wav,,speech-librivox-0080.wav+music-jamendo-0063.wav SMR=14dB,noise-free-sound-0449.wav,speech-librivox-0020.wav+noise-free-sound-0149.wav SMR=14dB
+music-jamendo-0016.wav,,speech-us-gov-0152.wav+music-fma-0073.wav SMR=15dB,noise-free-sound-0452.wav,speech-us-gov-0245.wav+noise-free-sound-0641.wav SMR=15dB
+music-jamendo-0097.wav,,speech-librivox-0069.wav+music-fma-0032.wav SMR=16dB,noise-free-sound-0455.wav,speech-us-gov-0050.wav+noise-free-sound-0449.wav SMR=16dB
+music-jamendo-0099.wav,,speech-librivox-0152.wav+music-jamendo-0077.wav SMR=17dB,noise-free-sound-0458.wav,speech-us-gov-0092.wav+noise-free-sound-0569.wav SMR=17dB
+music-jamendo-0091.wav,,speech-librivox-0171.wav+music-rfm-0008.wav SMR=18dB,noise-free-sound-0461.wav,speech-librivox-0154.wav+noise-free-sound-0722.wav SMR=18dB
+music-jamendo-0090.wav,,speech-librivox-0121.wav+music-fma-0080.wav SMR=19dB,noise-free-sound-0464.wav,speech-us-gov-0188.wav+noise-free-sound-0050.wav SMR=19dB
+music-jamendo-0047.wav,,speech-us-gov-0017.wav+music-rfm-0102.wav SMR=20dB,noise-free-sound-0467.wav,speech-librivox-0166.wav+noise-free-sound-0713.wav SMR=20dB
+music-jamendo-0048.wav,,speech-librivox-0037.wav+music-fma-wa-0013.wav SMR=-5dB,noise-free-sound-0470.wav,speech-librivox-0099.wav+noise-free-sound-0383.wav SMR=-5dB
+music-jamendo-0049.wav,,speech-librivox-0141.wav+music-jamendo-0030.wav SMR=-4dB,noise-free-sound-0473.wav,speech-us-gov-0206.wav+noise-free-sound-0053.wav SMR=-4dB
+music-jamendo-0172.wav,,speech-us-gov-0059.wav+music-jamendo-0174.wav SMR=-3dB,noise-free-sound-0476.wav,speech-librivox-0027.wav+noise-free-sound-0596.wav SMR=-3dB
+music-jamendo-0173.wav,,speech-us-gov-0185.wav+music-hd-0068.wav SMR=-2dB,noise-free-sound-0479.wav,speech-librivox-0141.wav+noise-free-sound-0380.wav SMR=-2dB
+music-jamendo-0174.wav,,speech-us-gov-0044.wav+music-jamendo-0038.wav SMR=-1dB,noise-free-sound-0482.wav,speech-librivox-0172.wav+noise-free-sound-0284.wav SMR=-1dB
+music-rfm-0058.wav,,speech-us-gov-0179.wav+music-rfm-0120.wav SMR=0dB,noise-free-sound-0485.wav,speech-librivox-0018.wav+noise-sound-bible-0044.wav SMR=0dB
+music-rfm-0120.wav,,speech-librivox-0026.wav+music-hd-0063.wav SMR=1dB,noise-free-sound-0488.wav,speech-us-gov-0086.wav+noise-free-sound-0749.wav SMR=1dB
+music-rfm-0078.wav,,speech-us-gov-0050.wav+music-jamendo-0143.wav SMR=2dB,noise-free-sound-0491.wav,speech-us-gov-0137.wav+noise-free-sound-0260.wav SMR=2dB
+music-rfm-0001.wav,,speech-us-gov-0023.wav+music-fma-wa-0078.wav SMR=3dB,noise-free-sound-0494.wav,speech-us-gov-0065.wav+noise-free-sound-0842.wav SMR=3dB
+music-rfm-0008.wav,,speech-us-gov-0164.wav+music-rfm-0030.wav SMR=4dB,noise-free-sound-0497.wav,speech-us-gov-0203.wav+noise-free-sound-0758.wav SMR=4dB
+music-rfm-0024.wav,,speech-librivox-0088.wav+music-rfm-0112.wav SMR=5dB,noise-free-sound-0500.wav,speech-librivox-0090.wav+noise-free-sound-0245.wav SMR=5dB
+music-rfm-0031.wav,,speech-us-gov-0176.wav+music-fma-0092.wav SMR=6dB,noise-free-sound-0503.wav,speech-librivox-0115.wav+noise-free-sound-0350.wav SMR=6dB
+music-rfm-0049.wav,,speech-us-gov-0092.wav+music-jamendo-0101.wav SMR=7dB,noise-free-sound-0506.wav,speech-us-gov-0122.wav+noise-free-sound-0737.wav SMR=7dB
+music-rfm-0056.wav,,speech-us-gov-0062.wav+music-hd-0031.wav SMR=8dB,noise-free-sound-0509.wav,speech-librivox-0112.wav+noise-sound-bible-0032.wav SMR=8dB
+music-rfm-0074.wav,,speech-us-gov-0227.wav+music-jamendo-0090.wav SMR=9dB,noise-free-sound-0512.wav,speech-us-gov-0062.wav+noise-free-sound-0275.wav SMR=9dB
+music-rfm-0090.wav,,speech-us-gov-0140.wav+music-rfm-0109.wav SMR=10dB,noise-free-sound-0515.wav,speech-librivox-0041.wav+noise-free-sound-0626.wav SMR=10dB
+music-rfm-0112.wav,,speech-librivox-0020.wav+music-jamendo-0159.wav SMR=11dB,noise-free-sound-0518.wav,speech-librivox-0138.wav+noise-free-sound-0203.wav SMR=11dB
+music-rfm-0137.wav,,speech-librivox-0115.wav+music-hd-0007.wav SMR=12dB,noise-free-sound-0521.wav,speech-librivox-0137.wav+noise-free-sound-0095.wav SMR=12dB
+music-rfm-0003.wav,,speech-us-gov-0047.wav+music-rfm-0043.wav SMR=13dB,noise-free-sound-0524.wav,speech-us-gov-0209.wav+noise-free-sound-0152.wav SMR=13dB
+music-rfm-0013.wav,,speech-us-gov-0248.wav+music-fma-wa-0086.wav SMR=14dB,noise-free-sound-0527.wav,speech-us-gov-0053.wav+noise-free-sound-0104.wav SMR=14dB
+music-rfm-0018.wav,,speech-us-gov-0089.wav+music-rfm-0138.wav SMR=15dB,noise-free-sound-0530.wav,speech-us-gov-0107.wav+noise-free-sound-0452.wav SMR=15dB
+music-rfm-0029.wav,,speech-us-gov-0110.wav+music-rfm-0078.wav SMR=16dB,noise-free-sound-0533.wav,speech-us-gov-0035.wav+noise-free-sound-0416.wav SMR=16dB
+music-rfm-0030.wav,,speech-librivox-0138.wav+music-jamendo-0047.wav SMR=17dB,noise-free-sound-0536.wav,speech-librivox-0042.wav+noise-free-sound-0392.wav SMR=17dB
+music-rfm-0038.wav,,speech-us-gov-0107.wav+music-rfm-0136.wav SMR=18dB,noise-free-sound-0539.wav,speech-us-gov-0200.wav+noise-free-sound-0509.wav SMR=18dB
+music-rfm-0044.wav,,speech-us-gov-0077.wav+music-rfm-0133.wav SMR=19dB,noise-free-sound-0542.wav,speech-us-gov-0215.wav+noise-free-sound-0176.wav SMR=19dB
+music-rfm-0052.wav,,speech-us-gov-0209.wav+music-fma-wa-0036.wav SMR=20dB,noise-free-sound-0545.wav,speech-librivox-0149.wav+noise-free-sound-0557.wav SMR=20dB
+music-rfm-0060.wav,,speech-librivox-0137.wav+music-rfm-0053.wav SMR=-5dB,noise-free-sound-0548.wav,speech-us-gov-0173.wav+noise-free-sound-0089.wav SMR=-5dB
+music-rfm-0066.wav,,speech-us-gov-0113.wav+music-fma-0012.wav SMR=-4dB,noise-free-sound-0551.wav,speech-us-gov-0158.wav+noise-free-sound-0020.wav SMR=-4dB
+music-rfm-0071.wav,,speech-us-gov-0167.wav+music-jamendo-0102.wav SMR=-3dB,noise-free-sound-0554.wav,speech-librivox-0088.wav+noise-free-sound-0305.wav SMR=-3dB
+music-rfm-0076.wav,,speech-librivox-0044.wav+music-jamendo-0082.wav SMR=-2dB,noise-free-sound-0557.wav,speech-us-gov-0104.wav+noise-free-sound-0368.wav SMR=-2dB
+music-rfm-0081.wav,,speech-librivox-0112.wav+music-fma-wa-0022.wav SMR=-1dB,noise-free-sound-0560.wav,speech-us-gov-0113.wav+noise-free-sound-0155.wav SMR=-1dB
+music-rfm-0091.wav,,speech-librivox-0157.wav+music-fma-wa-0053.wav SMR=0dB,noise-free-sound-0563.wav,speech-us-gov-0152.wav+noise-free-sound-0653.wav SMR=0dB
+music-rfm-0096.wav,,speech-us-gov-0041.wav+music-rfm-0001.wav SMR=1dB,noise-free-sound-0566.wav,speech-us-gov-0239.wav+noise-free-sound-0425.wav SMR=1dB
+music-rfm-0102.wav,,speech-librivox-0172.wav+music-jamendo-0039.wav SMR=2dB,noise-free-sound-0569.wav,speech-librivox-0171.wav+noise-free-sound-0335.wav SMR=2dB
+music-rfm-0109.wav,,speech-us-gov-0032.wav+music-fma-wa-0063.wav SMR=3dB,noise-free-sound-0572.wav,speech-us-gov-0095.wav+noise-free-sound-0593.wav SMR=3dB
+music-rfm-0116.wav,,speech-us-gov-0251.wav+music-jamendo-0118.wav SMR=4dB,noise-free-sound-0575.wav,speech-us-gov-0002.wav+noise-free-sound-0503.wav SMR=4dB
+music-rfm-0122.wav,,speech-us-gov-0191.wav+music-jamendo-0115.wav SMR=5dB,noise-free-sound-0578.wav,speech-us-gov-0116.wav+noise-free-sound-0707.wav SMR=5dB
+music-rfm-0126.wav,,speech-librivox-0101.wav+music-jamendo-0078.wav SMR=6dB,noise-free-sound-0581.wav,speech-us-gov-0005.wav+noise-sound-bible-0083.wav SMR=6dB
+music-rfm-0133.wav,,speech-us-gov-0065.wav+music-hd-0045.wav SMR=7dB,noise-free-sound-0584.wav,speech-librivox-0101.wav+noise-free-sound-0488.wav SMR=7dB
+music-rfm-0138.wav,,speech-librivox-0149.wav+music-jamendo-0151.wav SMR=8dB,noise-free-sound-0587.wav,speech-librivox-0053.wav+noise-free-sound-0524.wav SMR=8dB
+music-rfm-0011.wav,,speech-librivox-0064.wav+music-jamendo-0026.wav SMR=9dB,noise-free-sound-0590.wav,speech-us-gov-0131.wav+noise-free-sound-0233.wav SMR=9dB
+music-rfm-0016.wav,,speech-us-gov-0080.wav+music-jamendo-0032.wav SMR=10dB,noise-free-sound-0593.wav,speech-librivox-0086.wav+noise-free-sound-0500.wav SMR=10dB
+music-rfm-0033.wav,,speech-librivox-0011.wav+music-rfm-0113.wav SMR=11dB,noise-free-sound-0596.wav,speech-us-gov-0227.wav+noise-free-sound-0752.wav SMR=11dB
+music-rfm-0043.wav,,speech-us-gov-0101.wav+music-jamendo-0183.wav SMR=12dB,noise-free-sound-0599.wav,speech-librivox-0152.wav+noise-sound-bible-0059.wav SMR=12dB
+music-rfm-0053.wav,,speech-us-gov-0230.wav+music-fma-wa-0066.wav SMR=13dB,noise-free-sound-0602.wav,speech-librivox-0050.wav+noise-free-sound-0326.wav SMR=13dB
+music-rfm-0063.wav,,speech-us-gov-0161.wav+music-fma-0105.wav SMR=14dB,noise-free-sound-0605.wav,speech-librivox-0163.wav+noise-free-sound-0743.wav SMR=14dB
+music-rfm-0082.wav,,speech-us-gov-0149.wav+music-fma-0074.wav SMR=15dB,noise-free-sound-0608.wav,speech-librivox-0107.wav+noise-free-sound-0134.wav SMR=15dB
+music-rfm-0086.wav,,speech-librivox-0000.wav+music-jamendo-0000.wav SMR=16dB,noise-free-sound-0611.wav,speech-us-gov-0047.wav+noise-free-sound-0773.wav SMR=16dB
+music-rfm-0103.wav,,speech-us-gov-0083.wav+music-fma-0050.wav SMR=17dB,noise-free-sound-0614.wav,speech-us-gov-0221.wav+noise-free-sound-0035.wav SMR=17dB
+music-rfm-0108.wav,,speech-us-gov-0122.wav+music-fma-0060.wav SMR=18dB,noise-free-sound-0617.wav,speech-us-gov-0101.wav+noise-free-sound-0518.wav SMR=18dB
+music-rfm-0113.wav,,speech-librivox-0050.wav+music-fma-wa-0033.wav SMR=19dB,noise-free-sound-0620.wav,speech-us-gov-0182.wav+noise-free-sound-0182.wav SMR=19dB
+music-rfm-0127.wav,,speech-us-gov-0173.wav+music-rfm-0063.wav SMR=20dB,noise-free-sound-0623.wav,speech-us-gov-0038.wav+noise-free-sound-0542.wav SMR=20dB
+music-rfm-0136.wav,,speech-us-gov-0056.wav+music-jamendo-0164.wav SMR=-5dB,noise-free-sound-0626.wav,speech-us-gov-0230.wav+noise-free-sound-0497.wav SMR=-5dB
+music-rfm-0146.wav,,speech-us-gov-0131.wav+music-jamendo-0123.wav SMR=-4dB,noise-free-sound-0629.wav,speech-librivox-0037.wav+noise-sound-bible-0071.wav SMR=-4dB
+,,,noise-free-sound-0632.wav,speech-us-gov-0197.wav+noise-free-sound-0611.wav SMR=-3dB
+,,,noise-free-sound-0635.wav,speech-us-gov-0017.wav+noise-free-sound-0347.wav SMR=-2dB
+,,,noise-free-sound-0638.wav,speech-us-gov-0119.wav+noise-free-sound-0671.wav SMR=-1dB
+,,,noise-free-sound-0641.wav,speech-us-gov-0098.wav+noise-free-sound-0797.wav SMR=0dB
+,,,noise-free-sound-0644.wav,speech-us-gov-0179.wav+noise-free-sound-0071.wav SMR=1dB
+,,,noise-free-sound-0647.wav,speech-us-gov-0014.wav+noise-free-sound-0077.wav SMR=2dB
+,,,noise-free-sound-0650.wav,speech-librivox-0008.wav+noise-free-sound-0755.wav SMR=3dB
+,,,noise-free-sound-0653.wav,speech-us-gov-0077.wav+noise-free-sound-0446.wav SMR=4dB
+,,,noise-free-sound-0656.wav,speech-us-gov-0032.wav+noise-free-sound-0218.wav SMR=5dB
+,,,noise-free-sound-0659.wav,speech-us-gov-0242.wav+noise-free-sound-0266.wav SMR=6dB
+,,,noise-free-sound-0662.wav,speech-librivox-0089.wav+noise-free-sound-0701.wav SMR=7dB
+,,,noise-free-sound-0665.wav,speech-us-gov-0161.wav+noise-free-sound-0692.wav SMR=8dB
+,,,noise-free-sound-0668.wav,speech-librivox-0142.wav+noise-free-sound-0362.wav SMR=9dB
+,,,noise-free-sound-0671.wav,speech-librivox-0069.wav+noise-free-sound-0140.wav SMR=10dB
+,,,noise-free-sound-0674.wav,speech-us-gov-0233.wav+noise-free-sound-0017.wav SMR=11dB
+,,,noise-free-sound-0677.wav,speech-librivox-0032.wav+noise-free-sound-0308.wav SMR=12dB
+,,,noise-free-sound-0680.wav,speech-us-gov-0134.wav+noise-free-sound-0215.wav SMR=13dB
+,,,noise-free-sound-0683.wav,speech-librivox-0065.wav+noise-free-sound-0806.wav SMR=14dB
+,,,noise-free-sound-0686.wav,speech-us-gov-0056.wav+noise-free-sound-0209.wav SMR=15dB
+,,,noise-free-sound-0689.wav,speech-librivox-0073.wav+noise-free-sound-0002.wav SMR=16dB
+,,,noise-free-sound-0692.wav,speech-librivox-0072.wav+noise-free-sound-0800.wav SMR=17dB
+,,,noise-free-sound-0695.wav,speech-us-gov-0089.wav+noise-free-sound-0830.wav SMR=18dB
+,,,noise-free-sound-0698.wav,speech-us-gov-0110.wav+noise-free-sound-0827.wav SMR=19dB
+,,,noise-free-sound-0701.wav,speech-us-gov-0029.wav+noise-free-sound-0170.wav SMR=20dB
+,,,noise-free-sound-0704.wav,speech-librivox-0121.wav+noise-free-sound-0617.wav SMR=-5dB
+,,,noise-free-sound-0707.wav,speech-us-gov-0020.wav+noise-free-sound-0809.wav SMR=-4dB
+,,,noise-free-sound-0710.wav,speech-librivox-0122.wav+noise-sound-bible-0038.wav SMR=-3dB
+,,,noise-free-sound-0713.wav,speech-us-gov-0146.wav+noise-free-sound-0206.wav SMR=-2dB
+,,,noise-free-sound-0716.wav,speech-librivox-0047.wav+noise-free-sound-0536.wav SMR=-1dB
+,,,noise-free-sound-0719.wav,speech-us-gov-0080.wav+noise-free-sound-0029.wav SMR=0dB
+,,,noise-free-sound-0722.wav,speech-us-gov-0176.wav+noise-free-sound-0374.wav SMR=1dB
+,,,noise-free-sound-0725.wav,speech-us-gov-0248.wav+noise-free-sound-0281.wav SMR=2dB
+,,,noise-free-sound-0728.wav,speech-us-gov-0068.wav+noise-free-sound-0614.wav SMR=3dB
+,,,noise-free-sound-0731.wav,speech-librivox-0068.wav+noise-free-sound-0665.wav SMR=4dB
+,,,noise-free-sound-0734.wav,speech-us-gov-0128.wav+noise-free-sound-0545.wav SMR=5dB
+,,,noise-free-sound-0737.wav,speech-librivox-0019.wav+noise-free-sound-0539.wav SMR=6dB
+,,,noise-free-sound-0740.wav,speech-librivox-0080.wav+noise-free-sound-0110.wav SMR=7dB
+,,,noise-free-sound-0743.wav,speech-us-gov-0125.wav+noise-free-sound-0269.wav SMR=8dB
+,,,noise-free-sound-0746.wav,speech-us-gov-0149.wav+noise-free-sound-0638.wav SMR=9dB
+,,,noise-free-sound-0749.wav,speech-us-gov-0023.wav+noise-sound-bible-0074.wav SMR=10dB
+,,,noise-free-sound-0752.wav,speech-us-gov-0143.wav+noise-free-sound-0224.wav SMR=11dB
+,,,noise-free-sound-0755.wav,speech-us-gov-0191.wav+noise-free-sound-0581.wav SMR=12dB
+,,,noise-free-sound-0758.wav,speech-us-gov-0044.wav+noise-free-sound-0467.wav SMR=13dB
+,,,noise-free-sound-0761.wav,speech-librivox-0028.wav+noise-free-sound-0146.wav SMR=14dB
+,,,noise-free-sound-0764.wav,speech-librivox-0085.wav+noise-free-sound-0821.wav SMR=15dB
+,,,noise-free-sound-0767.wav,speech-us-gov-0236.wav+noise-sound-bible-0029.wav SMR=16dB
+,,,noise-free-sound-0770.wav,speech-librivox-0014.wav+noise-free-sound-0740.wav SMR=17dB
+,,,noise-free-sound-0773.wav,speech-us-gov-0026.wav+noise-free-sound-0062.wav SMR=18dB
+,,,noise-free-sound-0776.wav,speech-us-gov-0059.wav+noise-free-sound-0164.wav SMR=19dB
+,,,noise-free-sound-0779.wav,speech-librivox-0010.wav+noise-free-sound-0185.wav SMR=20dB
+,,,noise-free-sound-0782.wav,speech-librivox-0061.wav+noise-free-sound-0041.wav SMR=-5dB
+,,,noise-free-sound-0785.wav,speech-librivox-0079.wav+noise-free-sound-0620.wav SMR=-4dB
+,,,noise-free-sound-0788.wav,speech-us-gov-0140.wav+noise-free-sound-0818.wav SMR=-3dB
+,,,noise-free-sound-0791.wav,speech-us-gov-0170.wav+noise-free-sound-0059.wav SMR=-2dB
+,,,noise-free-sound-0794.wav,speech-us-gov-0224.wav+noise-free-sound-0092.wav SMR=-1dB
+,,,noise-free-sound-0797.wav,speech-us-gov-0167.wav+noise-free-sound-0833.wav SMR=0dB
+,,,noise-free-sound-0800.wav,speech-us-gov-0011.wav+noise-sound-bible-0026.wav SMR=1dB
+,,,noise-free-sound-0803.wav,speech-us-gov-0074.wav+noise-free-sound-0113.wav SMR=2dB
+,,,noise-free-sound-0806.wav,speech-us-gov-0041.wav+noise-free-sound-0836.wav SMR=3dB
+,,,noise-free-sound-0809.wav,speech-librivox-0158.wav+noise-free-sound-0320.wav SMR=4dB
+,,,noise-free-sound-0812.wav,speech-us-gov-0218.wav+noise-free-sound-0080.wav SMR=5dB
+,,,noise-free-sound-0815.wav,speech-librivox-0064.wav+noise-free-sound-0815.wav SMR=6dB
+,,,noise-free-sound-0818.wav,speech-us-gov-0194.wav+noise-free-sound-0371.wav SMR=7dB
+,,,noise-free-sound-0821.wav,speech-librivox-0157.wav+noise-free-sound-0587.wav SMR=8dB
+,,,noise-free-sound-0824.wav,speech-us-gov-0008.wav+noise-free-sound-0074.wav SMR=9dB
+,,,noise-free-sound-0827.wav,speech-librivox-0011.wav+noise-free-sound-0464.wav SMR=10dB
+,,,noise-free-sound-0830.wav,speech-librivox-0044.wav+noise-free-sound-0023.wav SMR=11dB
+,,,noise-free-sound-0833.wav,speech-us-gov-0251.wav+noise-free-sound-0314.wav SMR=12dB
+,,,noise-free-sound-0836.wav,speech-us-gov-0212.wav+noise-free-sound-0389.wav SMR=13dB
+,,,noise-free-sound-0839.wav,speech-us-gov-0155.wav+noise-free-sound-0341.wav SMR=14dB
+,,,noise-free-sound-0842.wav,speech-us-gov-0110.wav+noise-free-sound-0047.wav SMR=15dB
+,,,noise-sound-bible-0002.wav,speech-us-gov-0149.wav+noise-free-sound-0410.wav SMR=16dB
+,,,noise-sound-bible-0005.wav,speech-us-gov-0005.wav+noise-free-sound-0731.wav SMR=17dB
+,,,noise-sound-bible-0008.wav,speech-librivox-0018.wav+noise-free-sound-0470.wav SMR=18dB
+,,,noise-sound-bible-0011.wav,speech-librivox-0000.wav+noise-free-sound-0143.wav SMR=19dB
+,,,noise-sound-bible-0014.wav,speech-us-gov-0077.wav+noise-free-sound-0197.wav SMR=20dB
+,,,noise-sound-bible-0017.wav,speech-librivox-0152.wav+noise-free-sound-0812.wav SMR=-5dB
+,,,noise-sound-bible-0020.wav,speech-us-gov-0113.wav+noise-free-sound-0512.wav SMR=-4dB
+,,,noise-sound-bible-0023.wav,speech-librivox-0037.wav+noise-sound-bible-0062.wav SMR=-3dB
+,,,noise-sound-bible-0026.wav,speech-us-gov-0206.wav+noise-free-sound-0377.wav SMR=-2dB
+,,,noise-sound-bible-0029.wav,speech-us-gov-0095.wav+noise-free-sound-0725.wav SMR=-1dB
+,,,noise-sound-bible-0032.wav,speech-us-gov-0227.wav+noise-free-sound-0107.wav SMR=0dB
+,,,noise-sound-bible-0035.wav,speech-us-gov-0218.wav+noise-free-sound-0824.wav SMR=1dB
+,,,noise-sound-bible-0038.wav,speech-librivox-0090.wav+noise-sound-bible-0008.wav SMR=2dB
+,,,noise-sound-bible-0041.wav,speech-us-gov-0161.wav+noise-free-sound-0770.wav SMR=3dB
+,,,noise-sound-bible-0044.wav,speech-librivox-0149.wav+noise-free-sound-0554.wav SMR=4dB
+,,,noise-sound-bible-0047.wav,speech-us-gov-0236.wav+noise-free-sound-0479.wav SMR=5dB
+,,,noise-sound-bible-0050.wav,speech-librivox-0080.wav+noise-free-sound-0710.wav SMR=6dB
+,,,noise-sound-bible-0053.wav,speech-us-gov-0194.wav+noise-free-sound-0248.wav SMR=7dB
+,,,noise-sound-bible-0056.wav,speech-us-gov-0176.wav+noise-free-sound-0719.wav SMR=8dB
+,,,noise-sound-bible-0059.wav,speech-us-gov-0017.wav+noise-free-sound-0239.wav SMR=9dB
+,,,noise-sound-bible-0062.wav,speech-librivox-0042.wav+noise-free-sound-0353.wav SMR=10dB
+,,,noise-sound-bible-0065.wav,speech-librivox-0047.wav+noise-sound-bible-0086.wav SMR=11dB
+,,,noise-sound-bible-0068.wav,speech-librivox-0010.wav+noise-free-sound-0440.wav SMR=12dB
+,,,noise-sound-bible-0071.wav,speech-librivox-0073.wav+noise-free-sound-0803.wav SMR=13dB
+,,,noise-sound-bible-0074.wav,speech-us-gov-0101.wav+noise-free-sound-0008.wav SMR=14dB
+,,,noise-sound-bible-0077.wav,speech-us-gov-0086.wav+noise-free-sound-0533.wav SMR=15dB
+,,,noise-sound-bible-0080.wav,speech-librivox-0028.wav+noise-free-sound-0491.wav SMR=16dB
+,,,noise-sound-bible-0083.wav,speech-us-gov-0158.wav+noise-free-sound-0212.wav SMR=17dB
+,,,noise-sound-bible-0086.wav,speech-librivox-0061.wav+noise-free-sound-0086.wav SMR=18dB
