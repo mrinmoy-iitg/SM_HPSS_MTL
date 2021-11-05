@@ -1,0 +1,16 @@
+adventure
+blues
+country
+dance
+electronica
+folk
+funk
+hiphop
+indierock
+jazz
+latin
+metal
+pop
+rap
+rock
+westernart
